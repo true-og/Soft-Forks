@@ -1,0 +1,15 @@
+[submodule "AreaShop-Hikari"]
+	path = AreaShop-Hikari
+	url = https://github.com/true-og/AreaShop-Hikari
+[submodule "CraftingStore-OG"]
+	path = CraftingStore-OG
+	url = https://github.com/true-og/CraftingStore-OG
+[submodule "Essentials-OG"]
+	path = Essentials-OG
+	url = https://github.com/true-og/Essentials-OG
+[submodule "FastCrystals-OG"]
+	path = FastCrystals-OG
+	url = https://github.com/true-og/FastCrystals-OG
+[submodule "WETS-OG"]
+	path = WETS-OG
+	url = https://github.com/true-og/WETS-OG
