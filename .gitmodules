@@ -13,3 +13,6 @@
 [submodule "WETS-OG"]
 	path = WETS-OG
 	url = https://github.com/true-og/WETS-OG
+[submodule "PlayTimes-OG"]
+	path = PlayTimes-OG
+	url = https://github.com/true-og/PlayTimes-OG
