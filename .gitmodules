@@ -16,3 +16,6 @@
 [submodule "PlayTimes-OG"]
 	path = PlayTimes-OG
 	url = https://github.com/true-og/PlayTimes-OG
+[submodule "AntiPearlGlitch-OG"]
+	path = AntiPearlGlitch-OG
+	url = https://github.com/NotAlexNoyle/AntiPearlGlitch-OG
