@@ -19,3 +19,6 @@
 [submodule "AntiPearlGlitch-OG"]
 	path = AntiPearlGlitch-OG
 	url = https://github.com/true-og/AntiPearlGlitch-OG
+[submodule "OldCombatMechanics-OG"]
+	path = OldCombatMechanics-OG
+	url = https://github.com/true-og/OldCombatMechanics-OG
