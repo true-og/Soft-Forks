@@ -22,3 +22,6 @@
 [submodule "OldCombatMechanics-OG"]
 	path = OldCombatMechanics-OG
 	url = https://github.com/true-og/OldCombatMechanics-OG
+[submodule "AnnouncerPlus-OG"]
+	path = AnnouncerPlus-OG
+	url = https://github.com/true-og/AnnouncerPlus-OG
