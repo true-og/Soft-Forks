@@ -25,3 +25,6 @@
 [submodule "AnnouncerPlus-OG"]
 	path = AnnouncerPlus-OG
 	url = https://github.com/true-og/AnnouncerPlus-OG
+[submodule "TAB-OG"]
+	path = TAB-OG
+	url = https://github.com/true-og/TAB-OG
