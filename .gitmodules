@@ -34,3 +34,6 @@
 [submodule "IllegalStack-OG"]
 	path = IllegalStack-OG
 	url = https://github.com/true-og/IllegalStack-OG
+[submodule "Duels-OG"]
+	path = Duels-OG
+	url = https://github.com/true-og/Duels-OG
