@@ -40,3 +40,6 @@
 [submodule "PurpurExtras-OG"]
 	path = PurpurExtras-OG
 	url = https://github.com/true-og/PurpurExtras-OG
+[submodule "Votifier-OG"]
+	path = Votifier-OG
+	url = https://github.com/true-og/Votifier-OG
