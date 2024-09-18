@@ -43,3 +43,6 @@
 [submodule "Votifier-OG"]
 	path = Votifier-OG
 	url = https://github.com/true-og/Votifier-OG
+[submodule "Cosmetics-OG"]
+	path = Cosmetics-OG
+	url = https://github.com/true-og/Cosmetics-OG
