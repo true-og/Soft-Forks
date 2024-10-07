@@ -46,3 +46,6 @@
 [submodule "AnnouncerPlus-OG"]
 	path = AnnouncerPlus-OG
 	url = https://github.com/true-og/AnnouncerPlus-OG
+[submodule "AFKPlus-OG"]
+	path = AFKPlus-OG
+	url = https://github.com/true-og/AFKPlus-OG
