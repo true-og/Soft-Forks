@@ -55,3 +55,6 @@
 [submodule "Item-NBT-API-OG"]
 	path = Item-NBT-API-OG
 	url = https://github.com/true-og/Item-NBT-API-OG
+[submodule "AntiPieRay-OG"]
+	path = AntiPieRay-OG
+	url = https://github.com/true-og/AntiPieRay-OG
