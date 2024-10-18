@@ -52,3 +52,6 @@
 [submodule "DropHeads-OG"]
 	path = DropHeads-OG
 	url = https://github.com/true-og/DropHeads-OG
+[submodule "Item-NBT-API-OG"]
+	path = Item-NBT-API-OG
+	url = https://github.com/true-og/Item-NBT-API-OG
