@@ -58,3 +58,6 @@
 [submodule "AntiPieRay-OG"]
 	path = AntiPieRay-OG
 	url = https://github.com/true-og/AntiPieRay-OG
+[submodule "WorldGuard-OG"]
+	path = WorldGuard-OG
+	url = https://github.com/true-og/WorldGuard-OG
