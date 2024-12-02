@@ -67,3 +67,6 @@
 [submodule "QuickShop-OG"]
 	path = QuickShop-OG
 	url = https://github.com/true-og/QuickShop-OG
+[submodule "EvLib-OG"]
+	path = EvLib-OG
+	url = https://github.com/true-og/EvLib-OG
