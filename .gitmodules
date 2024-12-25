@@ -76,3 +76,6 @@
 [submodule "MCL-Votifier-OG"]
 	path = MCL-Votifier-OG
 	url = https://github.com/true-og/MCL-Votifier-OG
+[submodule "Quests-OG"]
+	path = Quests-OG
+	url = https://github.com/true-og/Quests-OG
