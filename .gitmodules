@@ -52,9 +52,6 @@
 [submodule "DropHeads-OG"]
 	path = DropHeads-OG
 	url = https://github.com/true-og/DropHeads-OG
-[submodule "Vault-OG"]
-	path = Vault-OG
-	url = https://github.com/true-og/Vault-OG
 [submodule "QuickShop-OG"]
 	path = QuickShop-OG
 	url = https://github.com/true-og/QuickShop-OG
