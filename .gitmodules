@@ -40,9 +40,6 @@
 [submodule "Cosmetics-OG"]
 	path = Cosmetics-OG
 	url = https://github.com/true-og/Cosmetics-OG
-[submodule "AnnouncerPlus-OG"]
-	path = AnnouncerPlus-OG
-	url = https://github.com/true-og/AnnouncerPlus-OG
 [submodule "DropHeads-OG"]
 	path = DropHeads-OG
 	url = https://github.com/true-og/DropHeads-OG
@@ -61,3 +58,6 @@
 [submodule "Quests-OG"]
 	path = Quests-OG
 	url = https://github.com/true-og/Quests-OG
+[submodule "QSFindItemAddOn-OG"]
+	path = QSFindItemAddOn-OG
+	url = https://github.com/true-og/QSFindItemAddOn-OG
