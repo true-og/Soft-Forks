@@ -55,9 +55,6 @@
 [submodule "MCL-Votifier-OG"]
 	path = MCL-Votifier-OG
 	url = https://github.com/true-og/MCL-Votifier-OG
-[submodule "Quests-OG"]
-	path = Quests-OG
-	url = https://github.com/true-og/Quests-OG
 [submodule "QSFindItemAddOn-OG"]
 	path = QSFindItemAddOn-OG
 	url = https://github.com/true-og/QSFindItemAddOn-OG
