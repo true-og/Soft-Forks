@@ -58,3 +58,6 @@
 [submodule "QSFindItemAddOn-OG"]
 	path = QSFindItemAddOn-OG
 	url = https://github.com/true-og/QSFindItemAddOn-OG
+[submodule "WorldEdit-OG"]
+	path = WorldEdit-OG
+	url = https://github.com/true-og/WorldEdit-OG
