@@ -55,9 +55,6 @@
 [submodule "WorldEdit-OG"]
 	path = WorldEdit-OG
 	url = https://github.com/true-og/WorldEdit-OG
-[submodule "AntiPieRay-OG"]
-	path = AntiPieRay-OG
-	url = https://github.com/true-og/AntiPieRay-OG
 [submodule "ArenaRegen-OG"]
 	path = ArenaRegen-OG
 	url = https://github.com/true-og/ArenaRegen-OG
