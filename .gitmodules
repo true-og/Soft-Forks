@@ -61,3 +61,21 @@
 [submodule "WorldEdit-OG"]
 	path = WorldEdit-OG
 	url = https://github.com/true-og/WorldEdit-OG
+[submodule "AntiPieRay-OG"]
+	path = AntiPieRay-OG
+	url = https://github.com/true-og/AntiPieRay-OG
+[submodule "ArenaRegen-OG"]
+	path = ArenaRegen-OG
+	url = https://github.com/true-og/ArenaRegen-OG
+[submodule "Celeste-OG"]
+	path = Celeste-OG
+	url = https://github.com/true-og/Celeste-OG
+[submodule "MiniPlaceholders-AFKPlus"]
+	path = MiniPlaceholders-AFKPlus
+	url = https://github.com/true-og/MiniPlaceholders-AFKPlus
+[submodule "MiniPlaceholders-Statistic"]
+	path = MiniPlaceholders-Statistic
+	url = https://github.com/true-og/MiniPlaceholders-Statistic
+[submodule "MiniPlaceholders-Essentials"]
+	path = MiniPlaceholders-Essentials
+	url = https://github.com/true-og/MiniPlaceholders-Essentials
