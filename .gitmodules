@@ -40,15 +40,9 @@
 [submodule "Cosmetics-OG"]
 	path = Cosmetics-OG
 	url = https://github.com/true-og/Cosmetics-OG
-[submodule "DropHeads-OG"]
-	path = DropHeads-OG
-	url = https://github.com/true-og/DropHeads-OG
 [submodule "QuickShop-OG"]
 	path = QuickShop-OG
 	url = https://github.com/true-og/QuickShop-OG
-[submodule "EvLib-OG"]
-	path = EvLib-OG
-	url = https://github.com/true-og/EvLib-OG
 [submodule "CoreProtect-OG"]
 	path = CoreProtect-OG
 	url = https://github.com/true-og/CoreProtect-OG/
