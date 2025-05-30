@@ -70,12 +70,12 @@
 [submodule "Celeste-OG"]
 	path = Celeste-OG
 	url = https://github.com/true-og/Celeste-OG
-[submodule "MiniPlaceholders-AFKPlus"]
-	path = MiniPlaceholders-AFKPlus
-	url = https://github.com/true-og/MiniPlaceholders-AFKPlus
-[submodule "MiniPlaceholders-Statistic"]
-	path = MiniPlaceholders-Statistic
-	url = https://github.com/true-og/MiniPlaceholders-Statistic
-[submodule "MiniPlaceholders-Essentials"]
-	path = MiniPlaceholders-Essentials
-	url = https://github.com/true-og/MiniPlaceholders-Essentials
+[submodule "MiniPlaceholders-Statistic-OG"]
+	path = MiniPlaceholders-Statistic-OG
+	url = https://github.com/true-og/MiniPlaceholders-Statistic-OG
+[submodule "MiniPlaceholders-AFKPlus-OG"]
+	path = MiniPlaceholders-AFKPlus-OG
+	url = https://github.com/true-og/MiniPlaceholders-AFKPlus-OG
+[submodule "MiniPlaceholders-Essentials-OG"]
+	path = MiniPlaceholders-Essentials-OG
+	url = https://github.com/true-og/MiniPlaceholders-Essentials-OG
