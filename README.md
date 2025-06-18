@@ -10,9 +10,9 @@ See each individual submodule for relevant licenses. Nothing is more restrictive
 
 # All Soft Forked plugins should abide by the following standards, if applicable:
 
-**Gradle 8.14.1:**
+**Gradle 8.14.2:**
 
-```./gradlew wrapper --gradle-version=8.14.1```
+```./gradlew wrapper --gradle-version=8.14.2```
 
 **Kotlin Gradle files:**
 
