@@ -52,7 +52,11 @@ tasks.withType<AbstractArchiveTask>().configureEach {
 }
 ```
 
-**Import TrueOG Network internal dependencies from source via bootstrap.sh. Examples in:**
+**Import TrueOG Network internal dependencies from source via bootstrap.sh.**
+
+**Use palantir auto-formatting.**
+
+**Examples in:**
 
 [Template-OG](https://github.com/true-og/Template-OG) (Java)
 
