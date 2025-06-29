@@ -1,4 +1,4 @@
-# Hard-Forks
+# Soft-Forks
 
 ![Icon](https://github.com/true-og/website/blob/main/assets/images/logos/Logo-Alternate-Transparent.png)
 
