@@ -67,3 +67,6 @@
 [submodule "MiniPlaceholders-Essentials-OG"]
 	path = MiniPlaceholders-Essentials-OG
 	url = https://github.com/true-og/MiniPlaceholders-Essentials-OG
+[submodule "ChatItem-OG"]
+	path = ChatItem-OG
+	url = https://github.com/true-og/ChatItem-OG
