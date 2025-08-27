@@ -1,12 +1,6 @@
-[submodule "CraftingStore-OG"]
-	path = CraftingStore-OG
-	url = https://github.com/true-og/CraftingStore-OG
 [submodule "Essentials-OG"]
 	path = Essentials-OG
 	url = https://github.com/true-og/Essentials-OG
-[submodule "FastCrystals-OG"]
-	path = FastCrystals-OG
-	url = https://github.com/true-og/FastCrystals-OG
 [submodule "WETS-OG"]
 	path = WETS-OG
 	url = https://github.com/true-og/WETS-OG
@@ -16,9 +10,6 @@
 [submodule "AntiPearlGlitch-OG"]
 	path = AntiPearlGlitch-OG
 	url = https://github.com/true-og/AntiPearlGlitch-OG
-[submodule "OldCombatMechanics-OG"]
-	path = OldCombatMechanics-OG
-	url = https://github.com/true-og/OldCombatMechanics-OG
 [submodule "TAB-OG"]
 	path = TAB-OG
 	url = https://github.com/true-og/TAB-OG
@@ -58,15 +49,3 @@
 [submodule "Celeste-OG"]
 	path = Celeste-OG
 	url = https://github.com/true-og/Celeste-OG
-[submodule "MiniPlaceholders-Statistic-OG"]
-	path = MiniPlaceholders-Statistic-OG
-	url = https://github.com/true-og/MiniPlaceholders-Statistic-OG
-[submodule "MiniPlaceholders-AFKPlus-OG"]
-	path = MiniPlaceholders-AFKPlus-OG
-	url = https://github.com/true-og/MiniPlaceholders-AFKPlus-OG
-[submodule "MiniPlaceholders-Essentials-OG"]
-	path = MiniPlaceholders-Essentials-OG
-	url = https://github.com/true-og/MiniPlaceholders-Essentials-OG
-[submodule "ChatItem-OG"]
-	path = ChatItem-OG
-	url = https://github.com/true-og/ChatItem-OG
