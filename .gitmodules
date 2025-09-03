@@ -13,9 +13,6 @@
 [submodule "TAB-OG"]
 	path = TAB-OG
 	url = https://github.com/true-og/TAB-OG
-[submodule "LuckPerms-OG"]
-	path = LuckPerms-OG
-	url = https://github.com/true-og/LuckPerms-OG
 [submodule "IllegalStack-OG"]
 	path = IllegalStack-OG
 	url = https://github.com/true-og/IllegalStack-OG
