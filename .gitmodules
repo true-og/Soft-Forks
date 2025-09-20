@@ -46,3 +46,6 @@
 [submodule "Celeste-OG"]
 	path = Celeste-OG
 	url = https://github.com/true-og/Celeste-OG
+[submodule "PacketEvents-OG"]
+	path = PacketEvents-OG
+	url = https://github.com/true-og/PacketEvents-OG
