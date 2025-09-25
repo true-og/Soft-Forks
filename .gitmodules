@@ -52,3 +52,6 @@
 [submodule "Hologram-OG"]
 	path = Hologram-OG
 	url = https://github.com/true-og/Hologram-OG
+[submodule "PlayerBounties-OG"]
+	path = PlayerBounties-OG
+	url = https://github.com/true-og/PlayerBounties-OG
