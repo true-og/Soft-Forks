@@ -52,3 +52,6 @@
 [submodule "AdvancedServerList-OG"]
 	path = AdvancedServerList-OG
 	url = https://github.com/true-og/AdvancedServerList-OG
+[submodule "FastCrystals-OG"]
+	path = FastCrystals-OG
+	url = https://github.com/true-og/FastCrystals-OG
