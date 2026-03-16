@@ -49,3 +49,6 @@
 [submodule "Hologram-OG"]
 	path = Hologram-OG
 	url = https://github.com/true-og/Hologram-OG
+[submodule "AdvancedServerList-OG"]
+	path = AdvancedServerList-OG
+	url = https://github.com/true-og/AdvancedServerList-OG
