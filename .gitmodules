@@ -61,3 +61,6 @@
 [submodule "Yamipa-OG"]
 	path = Yamipa-OG
 	url = https://github.com/true-og/Yamipa-OG
+[submodule "BuildBattle-OG"]
+	path = BuildBattle-OG
+	url = https://github.com/true-og/BuildBattle-OG
