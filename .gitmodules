@@ -58,3 +58,6 @@
 [submodule "Panilla-OG"]
 	path = Panilla-OG
 	url = https://github.com/true-og/Panilla-OG
+[submodule "Yamipa-OG"]
+	path = Yamipa-OG
+	url = https://github.com/true-og/Yamipa-OG
