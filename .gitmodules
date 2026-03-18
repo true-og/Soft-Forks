@@ -55,3 +55,6 @@
 [submodule "FastCrystals-OG"]
 	path = FastCrystals-OG
 	url = https://github.com/true-og/FastCrystals-OG
+[submodule "Panilla-OG"]
+	path = Panilla-OG
+	url = https://github.com/true-og/Panilla-OG
