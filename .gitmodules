@@ -58,6 +58,3 @@
 [submodule "BuildBattle-OG"]
 	path = BuildBattle-OG
 	url = https://github.com/true-og/BuildBattle-OG
-[submodule "OldCombatMechanics-OG"]
-	path = OldCombatMechanics-OG
-	url = https://github.com/true-og/OldCombatMechanics-OG
