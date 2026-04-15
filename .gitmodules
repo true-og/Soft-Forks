@@ -64,3 +64,6 @@
 [submodule "MobLimiter-OG"]
 	path = MobLimiter-OG
 	url = https://github.com/true-og/MobLimiter-OG
+[submodule "Duels-OG"]
+	path = Duels-OG
+	url = https://github.com/true-og/Duels-OG
