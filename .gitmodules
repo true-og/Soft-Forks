@@ -67,3 +67,6 @@
 [submodule "Duels-OG"]
 	path = Duels-OG
 	url = https://github.com/true-og/Duels-OG
+[submodule "GameModeInventories-OG"]
+	path = GameModeInventories-OG
+	url = https://github.com/true-og/GameModeInventories-OG
