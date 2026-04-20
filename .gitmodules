@@ -58,9 +58,6 @@
 [submodule "BuildBattle-OG"]
 	path = BuildBattle-OG
 	url = https://github.com/true-og/BuildBattle-OG
-[submodule "ViaRewind-Legacy-Support-OG"]
-	path = ViaRewind-Legacy-Support-OG
-	url = https://github.com/true-og/ViaRewind-Legacy-Support-OG
 [submodule "MobLimiter-OG"]
 	path = MobLimiter-OG
 	url = https://github.com/true-og/MobLimiter-OG
