@@ -67,3 +67,6 @@
 [submodule "GameModeInventories-OG"]
 	path = GameModeInventories-OG
 	url = https://github.com/true-og/GameModeInventories-OG
+[submodule "BetterChairs-OG"]
+	path = BetterChairs-OG
+	url = https://github.com/true-og/BetterChairs-OG
