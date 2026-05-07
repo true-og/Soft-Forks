@@ -73,3 +73,6 @@
 [submodule "Unions-OG"]
 	path = Unions-OG
 	url = https://github.com/true-og/Unions-OG
+[submodule "AnnouncerPlus-OG"]
+	path = AnnouncerPlus-OG
+	url = https://github.com/true-og/AnnouncerPlus-OG
