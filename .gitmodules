@@ -76,3 +76,6 @@
 [submodule "AnnouncerPlus-OG"]
 	path = AnnouncerPlus-OG
 	url = https://github.com/true-og/AnnouncerPlus-OG
+[submodule "KnockbackSync-OG"]
+	path = KnockbackSync-OG
+	url = https://github.com/true-og/KnockbackSync-OG
