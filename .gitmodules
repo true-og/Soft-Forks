@@ -79,3 +79,6 @@
 [submodule "KnockbackSync-OG"]
 	path = KnockbackSync-OG
 	url = https://github.com/true-og/KnockbackSync-OG
+[submodule "EternalCombat-OG"]
+	path = EternalCombat-OG
+	url = https://github.com/true-og/EternalCombat-OG
