@@ -82,3 +82,6 @@
 [submodule "EternalCombat-OG"]
 	path = EternalCombat-OG
 	url = https://github.com/true-og/EternalCombat-OG
+[submodule "CraftingStore-OG"]
+	path = CraftingStore-OG
+	url = https://github.com/true-og/CraftingStore-OG
