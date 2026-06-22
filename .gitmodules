@@ -82,3 +82,6 @@
 [submodule "CraftingStore-OG"]
 	path = CraftingStore-OG
 	url = https://github.com/true-og/CraftingStore-OG
+[submodule "AntiAutoFishing-OG"]
+	path = AntiAutoFishing-OG
+	url = https://github.com/true-og/AntiAutoFishing-OG
