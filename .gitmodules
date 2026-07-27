@@ -85,3 +85,6 @@
 [submodule "AntiAutoFishing-OG"]
 	path = AntiAutoFishing-OG
 	url = https://github.com/true-og/AntiAutoFishing-OG
+[submodule "AreaShop-OG"]
+	path = AreaShop-OG
+	url = https://github.com/true-og/AreaShop-OG
