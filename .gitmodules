@@ -28,6 +28,7 @@
 [submodule "QuickShop-OG"]
 	path = QuickShop-OG
 	url = https://github.com/true-og/QuickShop-OG
+	branch = main
 [submodule "CoreProtect-OG"]
 	path = CoreProtect-OG
 	url = https://github.com/true-og/CoreProtect-OG
